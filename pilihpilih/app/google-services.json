@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "581193481638",
+    "firebase_url": "https://pilihpilih-c88a1.firebaseio.com",
+    "project_id": "pilihpilih-c88a1",
+    "storage_bucket": "pilihpilih-c88a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581193481638:android:d4153d888caa751d",
+        "android_client_info": {
+          "package_name": "kaptenpotato.pilihpilih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581193481638-dpgh0k6l5kgug76118fhn9f7j8emteq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kaptenpotato.pilihpilih",
+            "certificate_hash": "8e56730cec69bbec9ceb9e6639c3083ae0261169"
+          }
+        },
+        {
+          "client_id": "581193481638-bnj3j1njmaesrujk002u2uaavoedgist.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrBpk_AnbZpkPMvvAAhOHncBbEX6lJszs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581193481638-bnj3j1njmaesrujk002u2uaavoedgist.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
