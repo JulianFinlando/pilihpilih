@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#7323dc"
+    android:background="#576987"
     android:gravity="center"
     android:orientation="vertical">
 
@@ -16,7 +16,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Traveling"
+        android:text="Mulai"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="30dp"
@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Easy traveling to anywhere!"
+        android:text="Mari menggunakan Aplikasi Pilih Pilih"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="20dp" />

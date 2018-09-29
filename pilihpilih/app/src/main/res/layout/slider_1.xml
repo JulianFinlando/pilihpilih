@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#f64c73"
+    android:background="#06023e"
     android:gravity="center"
     android:orientation="vertical">
 
@@ -10,13 +10,13 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_gravity="center"
-        android:src="@drawable/logo" />
+        android:src="@drawable/Thumbs_Up" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Sport"
+        android:text="Rekomendasi Kami"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="30dp"
@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="The best of sport center!"
+        android:text="Dapatkan Rekomendasi dari setiap produk yang kami tampilkan"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="20dp" />

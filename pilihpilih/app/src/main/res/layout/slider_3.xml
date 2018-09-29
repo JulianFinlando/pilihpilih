@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#489dff"
+    android:background="#01172F"
     android:gravity="center"
     android:orientation="vertical">
 
@@ -10,13 +10,13 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_gravity="center"
-        android:src="@drawable/logo" />
+        android:src="@drawable/News" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Shopping"
+        android:text="Berita Gadget"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="30dp"
@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="The best of shopping place!"
+        android:text="Dapatkan Berita Gadget terbaru setiap hari"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="20dp" />
